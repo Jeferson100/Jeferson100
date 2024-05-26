@@ -4,6 +4,16 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará diversos projetos e contribuições que fiz ao longo da minha jornada. Sinta-se à vontade para explorar e colaborar!
 
+## 📫 Como me encontrar
+
+<div> 
+  <a href="https://twitter.com/Jeferson_sehnem" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/jefersonsehnem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
+  <a href = "mailto:sehnemjeferson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jefersonsehnem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 <div>
   <a href="https://beacons.ai/Jeferson100">
   <img height="500em" src="https://github-readme-stats.vercel.app/api?username=Jeferson100&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
@@ -38,13 +48,4 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encon
 </div>
 
 
-### 📫 Como me encontrar
-
-<div> 
-  <a href="https://twitter.com/Jeferson_sehnem" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jefersonsehnem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
-  <a href = "mailto:sehnemjeferson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jefersonsehnem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
