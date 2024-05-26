@@ -6,6 +6,15 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará diversos projetos e contribuições que fiz ao longo da minha jornada. Sinta-se à vontade para explorar e colaborar!
 
+
+<div>
+  <a href="https://beacons.ai/Jeferson100">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson100&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson100&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+
+
 ### 🚀 Tecnologias e Ferramentas
 
 #### Linguagens de Programação:
