@@ -20,10 +20,13 @@
   <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson100&layout=compact&langs_count=16"/>
 </div>
 
-## Meus novos trabalhos
+## Meus trabalhos
+### 🚧 Estes projetos estão em construção! 🚧
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeferson100&repo=Predicoes_macroeconomicas&show_owner=true)](https://github.com/Jeferson100/Predicoes_macroeconomicas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeferson100&repo=Machine_learning_para_trading&show_owner=true)](https://github.com/Jeferson100/Machine_learning_para_trading)
 
+### 📄📚Artigo Científico
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeferson100&repo=Artigo_cientifico&show_owner=true)](https://github.com/Jeferson100/Artigo_cientifico)
 
 ### 🚀 Tecnologias e Ferramentas
 
