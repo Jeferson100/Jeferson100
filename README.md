@@ -1,18 +1,18 @@
 # Bem-vindo ao meu GitHub! 👋
 
-<img align="right" height="200" width="200" src="https://avatars.githubusercontent.com/u/9919?v=4">
-
 ## Olá! Eu sou Jeferson Dineio Sehnem
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará diversos projetos e contribuições que fiz ao longo da minha jornada. Sinta-se à vontade para explorar e colaborar!
 
-
 <div>
   <a href="https://beacons.ai/Jeferson100">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson100&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson100&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="500em" src="https://github-readme-stats.vercel.app/api?username=Jeferson100&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
+  <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson100&layout=compact&langs_count=16"/>
 </div>
 
+## Meus novos trabalhos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeferson100&repo=Predicoes_macroeconomicas&show_owner=true)](https://github.com/Jeferson100/Predicoes_macroeconomicas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeferson100&repo=Machine_learning_para_trading&show_owner=true)](https://github.com/Jeferson100/Machine_learning_para_trading)
 
 
 ### 🚀 Tecnologias e Ferramentas
@@ -23,6 +23,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encon
 <img align="center" alt="RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
 <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 #### Frameworks e Bibliotecas:
