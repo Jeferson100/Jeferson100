@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub! 👋
 
-## Olá! Eu sou Jeferson Dineio Sehnem
+## Olá! Eu sou Jeferson Dionei Sehnem
 
 **Sou um Cientista de dados apaixonado por tecnologia e programação. Aqui você encontrará diversos projetos e contribuições que fiz ao longo da minha jornada. Sinta-se à vontade para explorar e colaborar!**
 
